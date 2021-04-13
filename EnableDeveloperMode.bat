@@ -1,0 +1,1 @@
+adb push data/config sdcard/olMEGA
