@@ -2,8 +2,7 @@
 
 # olMEGA_Installation #
 
-Android Application for real-time acoustic feature extraction and simultaneous 
-live questionnaire. All newest releases included.
+Batch installation for olMEGA Android application and helper software, handbook, ...
 
 ### Prerequisites: ###
 * ADB (Android Debug Bridge)
